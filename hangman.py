@@ -5,7 +5,7 @@ print("\n" * 50)
 
 guessed_letters = []
 wrong_guesses = 0
-max_wrong = 10
+max_wrong = 8
 
 display_word = ["_"] * len(word)
 
